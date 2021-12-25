@@ -1,4 +1,9 @@
 .App {
   text-align: center;
+  border: 5px red solid;
 }
 
+.Todo{
+  border: 3px rgb(7, 82, 153) solid;
+
+}
